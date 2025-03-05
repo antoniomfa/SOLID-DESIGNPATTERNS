@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>SOLID_DESIGNPATTERNS</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\António\source\repos\SOLID&amp;DESIGNPATTERNS\SOLID&amp;DESIGNPATTERNS\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\António\source\repos\SOLID&amp;DESIGNPATTERNS\SOLID&amp;DESIGNPATTERNS\.editorconfig" />
+  </ItemGroup>
+
+</Project>

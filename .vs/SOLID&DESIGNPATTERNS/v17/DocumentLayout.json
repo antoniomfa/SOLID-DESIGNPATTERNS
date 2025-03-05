@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\solid\u0026designpatterns\\solid\u0026designpatterns\\mediator\\postsdialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|solutionrelative:solid\u0026designpatterns\\mediator\\postsdialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\solid\u0026designpatterns\\solid\u0026designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|solutionrelative:solid\u0026designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\solid\u0026designpatterns\\solid\u0026designpatterns\\mediator\\dialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|solutionrelative:solid\u0026designpatterns\\mediator\\dialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\solid\u0026designpatterns\\solid\u0026designpatterns\\mediator\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|solutionrelative:solid\u0026designpatterns\\mediator\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\solid\u0026designpatterns\\solid\u0026designpatterns\\mediator\\listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|solutionrelative:solid\u0026designpatterns\\mediator\\listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\solid\u0026designpatterns\\solid\u0026designpatterns\\mediator\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|solutionrelative:solid\u0026designpatterns\\mediator\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\solid\u0026designpatterns\\solid\u0026designpatterns\\mediator\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C764ED-A074-498D-A174-A31E9554D120}|SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS.csproj|solutionrelative:solid\u0026designpatterns\\mediator\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\u0026DESIGNPATTERNS\\Program.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Program.cs",
+              "RelativeToolTip": "SOLID\u0026DESIGNPATTERNS\\Program.cs",
+              "ViewState": "AQIAAE8BAAAAAAAAAADwv3QBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:47:47.293Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsDialogBox.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\PostsDialogBox.cs",
+              "RelativeDocumentMoniker": "SOLID\u0026DESIGNPATTERNS\\Mediator\\PostsDialogBox.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\PostsDialogBox.cs",
+              "RelativeToolTip": "SOLID\u0026DESIGNPATTERNS\\Mediator\\PostsDialogBox.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwDEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:21:32.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\Button.cs",
+              "RelativeDocumentMoniker": "SOLID\u0026DESIGNPATTERNS\\Mediator\\Button.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\Button.cs",
+              "RelativeToolTip": "SOLID\u0026DESIGNPATTERNS\\Mediator\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:19:53.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextBox.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\TextBox.cs",
+              "RelativeDocumentMoniker": "SOLID\u0026DESIGNPATTERNS\\Mediator\\TextBox.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\TextBox.cs",
+              "RelativeToolTip": "SOLID\u0026DESIGNPATTERNS\\Mediator\\TextBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:19:02.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListBox.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\ListBox.cs",
+              "RelativeDocumentMoniker": "SOLID\u0026DESIGNPATTERNS\\Mediator\\ListBox.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\ListBox.cs",
+              "RelativeToolTip": "SOLID\u0026DESIGNPATTERNS\\Mediator\\ListBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:16:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIControl.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\UIControl.cs",
+              "RelativeDocumentMoniker": "SOLID\u0026DESIGNPATTERNS\\Mediator\\UIControl.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\UIControl.cs",
+              "RelativeToolTip": "SOLID\u0026DESIGNPATTERNS\\Mediator\\UIControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:15:18.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogBox.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\DialogBox.cs",
+              "RelativeDocumentMoniker": "SOLID\u0026DESIGNPATTERNS\\Mediator\\DialogBox.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\SOLID\u0026DESIGNPATTERNS\\SOLID\u0026DESIGNPATTERNS\\Mediator\\DialogBox.cs",
+              "RelativeToolTip": "SOLID\u0026DESIGNPATTERNS\\Mediator\\DialogBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:14:27.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
