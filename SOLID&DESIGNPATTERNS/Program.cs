@@ -1,10 +1,9 @@
 ﻿using SOLID_DESIGNPATTERNS.Abstraction;
+using SOLID_DESIGNPATTERNS.ChainOfResponsibility.BadExample;
 using SOLID_DESIGNPATTERNS.Commnad;
 using SOLID_DESIGNPATTERNS.Commnad.GoodExample;
 using SOLID_DESIGNPATTERNS.Coupling;
 using SOLID_DESIGNPATTERNS.Encapsulation;
-using SOLID_DESIGNPATTERNS.Iterator;
-using SOLID_DESIGNPATTERNS.Iterator.GoodExample;
 using SOLID_DESIGNPATTERNS.Mediator;
 using SOLID_DESIGNPATTERNS.Memento;
 using SOLID_DESIGNPATTERNS.Observer.BadExample;
@@ -13,14 +12,10 @@ using SOLID_DESIGNPATTERNS.Polymorphism;
 using SOLID_DESIGNPATTERNS.SOLID.D;
 using SOLID_DESIGNPATTERNS.SOLID.I;
 using SOLID_DESIGNPATTERNS.SOLID.L;
-using SOLID_DESIGNPATTERNS.SOLID.O;
 using SOLID_DESIGNPATTERNS.State;
 using SOLID_DESIGNPATTERNS.State.GoodSolution;
-using SOLID_DESIGNPATTERNS.Strategy;
 using SOLID_DESIGNPATTERNS.Strategy.GoodExample;
-using SOLID_DESIGNPATTERNS.Template.BadExample;
 using SOLID_DESIGNPATTERNS.Template.GoodExample;
-using System.Net.Security;
 
 // -------------- Encapsulation --------------
 // hiding internal implementation only exposing necessary functionalities
@@ -366,9 +361,35 @@ dataSourceGood.AddObersver(barChart2);
 dataSourceGood.SetValues([1, 2, 3]);
 
 
-
-// Mediator ()
+// Mediator (WHEN TO USE: when to define a object (Meaditor) that describes how a set of objects interact with
+// each other, reducing lots of chaotic dependencies between those objects)
 
 var postsDialogBox = new PostsDialogBox();
 postsDialogBox.SimulateUserInteractionOk();
 postsDialogBox.SimulateUserInteractionNOk();
+
+
+// Chain Of Responsiblity (WHEN TO USE: when there is a chain of objects to handle a request; a request is passed
+// through a chain of handlers, each capable of either handling the request or passing it to the next in chain)
+
+// bad solution 
+var server = new WebServer();
+var req = new HttpRequest("antonio", "123");
+
+server.Handle(req);
+
+// good solution
+var validator = new SOLID_DESIGNPATTERNS.ChainOfResponsibility.GoodExample.Validator();
+var authenticator = new SOLID_DESIGNPATTERNS.ChainOfResponsibility.GoodExample.Authenticator();
+var logger = new SOLID_DESIGNPATTERNS.ChainOfResponsibility.GoodExample.Logger();
+
+validator.SetNext(authenticator).SetNext(logger);
+
+var webServer = new SOLID_DESIGNPATTERNS.ChainOfResponsibility.GoodExample.WebServer(validator);
+var request = new HttpRequest("antonio", "123");
+
+webServer.Handle(req);
+
+var request2 = new HttpRequest("antonio", "abc");
+webServer.Handle(request2);
+
