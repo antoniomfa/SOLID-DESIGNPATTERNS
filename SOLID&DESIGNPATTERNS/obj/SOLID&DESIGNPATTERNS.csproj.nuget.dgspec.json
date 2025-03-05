@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\António\\source\\repos\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS.csproj": {}
+    "C:\\Users\\António\\Documents\\Programming\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\António\\source\\repos\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS.csproj": {
+    "C:\\Users\\António\\Documents\\Programming\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\António\\source\\repos\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS.csproj",
+        "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS.csproj",
         "projectName": "SOLID&DESIGNPATTERNS",
-        "projectPath": "C:\\Users\\António\\source\\repos\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS.csproj",
+        "projectPath": "C:\\Users\\António\\Documents\\Programming\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS.csproj",
         "packagesPath": "C:\\Users\\António\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\António\\source\\repos\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\obj\\",
+        "outputPath": "C:\\Users\\António\\Documents\\Programming\\SOLID&DESIGNPATTERNS\\SOLID&DESIGNPATTERNS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\António\\AppData\\Roaming\\NuGet\\NuGet.Config",
